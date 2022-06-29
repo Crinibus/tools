@@ -1,0 +1,15 @@
+.input {
+    margin: 10px;
+}
+
+.normal-text {
+    color: darkgray
+}
+
+.coprime {
+    color: green
+}
+
+.not-coprime {
+    color: red
+}
